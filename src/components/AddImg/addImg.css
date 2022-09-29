@@ -1,0 +1,23 @@
+.add-img {
+    margin-top: 85px;
+    text-align: center;
+}
+.add-img button {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    background-color: rgb(104, 104, 225);
+    font-weight: bold;
+    
+}
+
+.gall-icon {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.add-img h1 {
+    margin-bottom: 50px;
+}

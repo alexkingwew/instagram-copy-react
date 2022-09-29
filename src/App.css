@@ -1,0 +1,13 @@
+.container{
+  max-width: 800px;
+  margin: 50px auto;
+  margin-top: 80px;
+}
+.loginPage{
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+* {
+  font-family: sans-serif;
+}

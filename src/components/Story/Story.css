@@ -1,0 +1,18 @@
+.story {
+    width: 450px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border: 1px solid rgb(203, 203, 203);
+    border-radius: 10px;
+    align-items: center;
+    padding: 20px;
+}
+.story img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid rgb(228, 13, 66);
+    padding: 2px;
+}

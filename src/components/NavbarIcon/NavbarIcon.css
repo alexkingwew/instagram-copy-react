@@ -1,0 +1,10 @@
+.navbarIcon {
+    display: flex;
+    justify-content: space-between;
+    width: 17%;
+    
+}
+.navbarIcon a{
+    color: black;
+    transition: .3s linear;
+}
